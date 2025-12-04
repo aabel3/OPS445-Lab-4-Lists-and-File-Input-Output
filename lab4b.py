@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 4
+# lab4b.py
+# Author: Avraham Abel
 
 # Place your list below this comment (before the function definitions)
 my_list = [1, 2, 3, 4, 5]
