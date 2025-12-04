@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 4
+# lab4a.py
+# Author: Avraham Abel
+
 # Create the list called "my_list" here, not within any function defined below.
 # That makes it a global variable. We'll talk about that in another lab.
 my_list = [100, 200, 300, "six hundred"]
