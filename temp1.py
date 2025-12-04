@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 4
+# temp1.py
+# Author: Avraham Abel
 
 # ~ num = 1
 # ~ num2 = 12
